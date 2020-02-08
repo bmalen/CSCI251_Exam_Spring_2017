@@ -1,0 +1,1 @@
+Even though value2 is set to private, it can still be read and written to with this trick.

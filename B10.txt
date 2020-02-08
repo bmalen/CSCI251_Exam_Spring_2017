@@ -1,0 +1,4 @@
+A vector is container.
+The size of a vector is dynamic.
+It is part of the Standard Template Library (STL).
+Because it is a template class, it can process all built in and user defined data types.
